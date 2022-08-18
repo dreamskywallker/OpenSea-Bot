@@ -1,1 +1,1 @@
-# OpenSea-Bot
+# PASSWORD: opensea
